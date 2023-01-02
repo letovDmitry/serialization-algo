@@ -1,2 +1,2 @@
 # serialization-algo
-Serialization algotithm written with C++.
+Serialization algotithm written in C++.
